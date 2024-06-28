@@ -2,6 +2,8 @@
 
 PseudoSweep is a tool to identify Pseudo-tested statements and methods in Java code. 
 
+The Tool Demonstration files and script can be found at [pseudosweep-demo](https://github.com/PseudoTested/pseudosweep-demo).
+
 ## Requirements
 
 PseudoSweep can run with projects written in Java 12 or earlier. (PseudoSweep
